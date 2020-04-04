@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "jwt.secret.key",
+      "type": "java.lang.String",
+      "description": "Description for jwt.secret.key."
+    },
+    {
+      "name": "jwt.time.to.live",
+      "type": "java.lang.Long",
+      "description": "Description for jwt.time.to.live."
+    }
+  ]
+}
